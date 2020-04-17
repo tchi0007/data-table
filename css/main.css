@@ -26,9 +26,9 @@ table {
   min-width: 50em;
 }
 
-@media only screen and (min-width: 60em ) {
+@media only screen and (min-width: 60em) {
 
-  .table-wrapper{
+  .table-wrapper {
     overflow: visible;
   }
 
